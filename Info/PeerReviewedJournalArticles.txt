@@ -1,0 +1,24 @@
+Hong, Joo-Wha. “Human, I wrote a Song for you: An Experiment Testing the Influence of Machines’ Attributes on the AI-Composed Music Evaluation.” Computers in Human Behavior, vol.131, 2022, p.107239
+
+This peer-reviewed journal article emphasized how artificial intelligence changed the music industry and the life of musicians. Due to the rapid development of AI, traditional perspectives on music creation have been transformed. The biggest advantage of AI compared to human musicians is unlimited creativity. However, some concerns about AI-generated music still exist. How would the public evaluate this type of music, especially the overall quality of the produced music? In the end, the author conducted research about this topic, and there were more people who accepted AI-generated music than those who opposed it. 
+
+This article is essential to the product our team is currently working on. Having an AI to generate music will enhance our “creativity and high musical quality product” (Hong, 2022). However, there are some consequences that are yet to be discovered. According to the study conducted, AI will increase “efficiency” to produce the best product. This advantage allows creators to spend more energy and effort on something else. 
+
+
+Hong, Yeong-Joo.  “The Effects of Synthesizing Music Using AI for Preoperative Management of Patients’s Anxiety.” Applied Sciences, vol. 12, no. 8089, 2022, p. 8089
+
+According to this article, the greatest approach to reduce preoperative anxiety is a TensorFlow Recurrent Neural Networks. This peer-reviewed, health-orientated journal article discusses various ways to reduce anxiety in patients. There were trials associated with TensorFlow along with “ 4 stages of the life cycle for this software: analysis, design, implementation, and evaluation.” (Hong, 2022) After few experiments happened in the operation room, the author concluded these sounds were deemed sentimental:
+Pianos
+String instruments 
+Vocal sound
+Natural sound
+
+Thus, anything related to classical or new age music would work best for TensorFlow. 
+
+This article served as a great reference for students to understand the flow process of software development and how to advertise their final product(s). It would be fascinating if our can perform similar functionality as TensorFlow. 
+
+Strum, Bob L.T. “Artificial Intelligence and Music: Open Questions of Copyright Law and Engineering Praxis.” Arts (Basel), vol. 8, no. 3, 2019, p. 115
+
+From this article, the author described the mysterious relationship between artificial intelligence and music. The tension between AI and music can be traced back many years. Due to the efficiency and intelligence of AI, musicians tended to have an easy time, because AI is capable of “automated music creation and recommendation of recorded music.” (Strum 2019). Later, the author questioned “should AI-generated music be protected?” Since AI is not considered human yet, would the product(s) composed by AI require copyright. Towards the end, the author concluded his articles by stating “technology is a double-edged sword,” ( Strum, 2019) because he thinks AI might cause entry-level beginners in the music field to lose their job. However, the efficiency and quality of products produced by AI is undeniable. 
+
+This article could serve as a guide for the team to make a decision on which license and copyright protection our product should have, because sustainability is essential in this scenario.  When it comes to AI, there are always controversies, but finding a valid licensed and open source AI to perform generation tasks isn’t too difficult. Nowadays, AI plays a vital role in music creation, but human’s valuable experiences cannot be denied. 
